@@ -13,7 +13,7 @@ pygmentsCodefences       = true
     dateformfull         = "2006"
     favicon              = "punkt.png"
     homepage             = "main"                           # What to call the home page link
-    footerText           = "[Impressum](/Impressum)"
+    footerText           = "[Impressum](/impressum)"
 
 # Metadata for Open Graph and Twitter
     description          = "Julius Schmitt - Filmemacher"               # Max 160 characters show in search results
