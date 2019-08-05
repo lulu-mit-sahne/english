@@ -21,19 +21,19 @@ pygmentsCodefences       = true
     title                = "Julius Schmitt"
 
 [[params.mainMenu]]
-    link = "/posts"
+    link = "/about"
     text = "Hallo"
 
 [[params.mainMenu]]
-    link = "/gallery"
+    link = "/about"
     text = "Ich bin Julius"
 
 [[params.mainMenu]]
-    link = "/portfolio"
+    link = "/posts"
     text = "Filmemacher"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "https://wirsindcarlo.de"
     text = "und 33,3% von Carlo"
 
 [imaging]
