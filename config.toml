@@ -1,40 +1,40 @@
 baseurl                  = "https://example.com/"           # Your domain name. Must end with "/"
-languageCode             = "en-us"
-defaultContentLanguage   = "en"
+languageCode             = "de"
+defaultContentLanguage   = "de"
 isMultilingual           = false
-title                    = "Call me Sam"
+title                    = "Julius Schmitt"
 theme                    = "sam"
 pygmentsStyle            = "monokai"                        # https://help.farbox.com/pygments.html
 pygmentsCodefences       = true
 # googleAnalytics        = ""                               # Tracking code, eg. "UA-111111111-1"
 
 [params]
-    dateform             = "Mon Jan 02, 2006"
-    dateformfull         = "Mon Jan 2 2006 15:04:05 EST"
+    dateform             = "2006"
+    dateformfull         = "2006"
     favicon              = "punkt.png"
     homepage             = "main"                           # What to call the home page link
-    footerText           = "Call me Sam, a theme for Hugo."
+    footerText           = "[Impressum](/Impressum)"
 
 # Metadata for Open Graph and Twitter
-    description          = "A new Hugo site."               # Max 160 characters show in search results
+    description          = "Julius Schmitt - Filmemacher"               # Max 160 characters show in search results
     images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
-    title                = "Call me Sam"
+    title                = "Julius Schmitt"
 
 [[params.mainMenu]]
     link = "/posts"
-    text = "posts"
+    text = "Hallo"
 
 [[params.mainMenu]]
     link = "/gallery"
-    text = "gallery"
+    text = "Ich bin Julius"
 
 [[params.mainMenu]]
     link = "/portfolio"
-    text = "portfolio"
+    text = "Filmemacher"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "who is sam?"
+    text = "und 33,3% von Carlo"
 
 [imaging]
     quality = 75
