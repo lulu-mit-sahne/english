@@ -1,4 +1,4 @@
-baseurl                  = "https://sad-wilson-a543af.netlify.com/"           # Your domain name. Must end with "/"
+baseurl                  = "https://deploy-preview-46--sad-wilson-a543af.netlify.com/"           # Your domain name. Must end with "/"
 languageCode             = "de"
 defaultContentLanguage   = "de"
 isMultilingual           = false
