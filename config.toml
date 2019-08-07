@@ -17,7 +17,7 @@ pygmentsCodefences       = true
 
 # Metadata for Open Graph and Twitter
     description          = "Julius Schmitt - Filmemacher"               # Max 160 characters show in search results
-    images               = ["tn.png"]                       # Image that shows on Twitter cards and Open Graph links to the site
+    images               = ["julius.jpg"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Julius Schmitt"
 
 [[params.mainMenu]]
