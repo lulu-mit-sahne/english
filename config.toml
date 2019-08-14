@@ -1,4 +1,6 @@
-baseurl                  = "https://sad-wilson-a543af.netlify.com/"           # Your domain name. Must end with "/"
+baseurl                  = "https://sad-wilson-a543af.netlify.com/" # Your domain name. Must end with "/"
+themesDir                = "themes"
+publishDir               = "docs"
 languageCode             = "de"
 defaultContentLanguage   = "de"
 isMultilingual           = false
