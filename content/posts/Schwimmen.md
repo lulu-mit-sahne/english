@@ -1,5 +1,5 @@
 ---
-title: "Die Kunst des Schwimmens"
+title: "The art of swimming"
 date: 2017-02-01
 showDate: true
 draft: false
