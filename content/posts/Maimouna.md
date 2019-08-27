@@ -1,5 +1,5 @@
 ---
-title: "Maimouna und Hélène"
+title: "Maimouna and Hélène"
 date: 2018-04-13
 showDate: true
 draft: false
