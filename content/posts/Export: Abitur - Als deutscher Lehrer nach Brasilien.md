@@ -19,7 +19,7 @@ images:
 
 ![Julius](/posts/brasilien/brazil_05.jpg)
 
-### A reportage by Leonard Claus
+### A reportage by <a href="https://www.leonardclaus.de" target="_blank">Leonard Claus</a>
 
 Nicolas Jentzsch is a teacher in Hamburg. But not for long, because he soon emigrates to São Paulo to teach at a German school abroad.
 Worldwide there are 140 schools in 76 countries, whereby the Brazilian Colégio Visconde de Porto Seguro is by far the largest school - almost 10,000 children learn the German language here and are prepared for the Abitur.
@@ -27,11 +27,11 @@ We follow Nicolas Jentzsch on his adventure to Brazil and also talk to his stude
 
 30 min / FullHD / 16:9 / color
 
-director:
-Leonard Claus
+Director:
+<a href="https://www.leonardclaus.de" target="_blank">Leonard Claus</a>
 
-producer:
-Leonard Claus
+Producer:
+<a href="https://www.leonardclaus.de" target="_blank">Leonard Claus</a>
 
 DoP:
 Julius Schmitt
