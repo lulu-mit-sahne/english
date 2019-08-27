@@ -26,7 +26,7 @@ Script, Directing, Production and D.o.P.:
 Julius Schmitt
 
 Editing:
-Martin Mikosch
+<a href="https://www.martinmikosch.de/" target="_blank">Martin Mikosch</a>
 
 Sound Design and Mix:
 William Amsler
