@@ -18,25 +18,25 @@ pygmentsCodefences       = true
     footerText           = "[Impressum](/impressum)"
 
 # Metadata for Open Graph and Twitter
-    description          = "Julius Schmitt - Filmemacher"               # Max 160 characters show in search results
+    description          = "Julius Schmitt - filmmaker"               # Max 160 characters show in search results
     images               = ["julius.jpg"]                       # Image that shows on Twitter cards and Open Graph links to the site
     title                = "Julius Schmitt"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "Hallo"
+    text = "Hey"
 
 [[params.mainMenu]]
     link = "/about"
-    text = "ich bin Julius"
+    text = "I'am Julius"
 
 [[params.mainMenu]]
     link = "/posts"
-    text = "Filmemacher"
+    text = "filmmaker"
 
 [[params.mainMenuTab]]
     link = "https://wirsindcarlo.de"
-    text = "und 33,3% von Carlo"
+    text = "and 33,3% of Carlo"
 
 [imaging]
     quality = 75
