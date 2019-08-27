@@ -19,25 +19,25 @@ Last sunrays disappear behind the hills. Darkness covers the city, coldness cree
 
 13 min / 5 min / 2K / 21:9 / Colour
 
-Script and Directing
+Script and Directing:
 Julius Schmitt
 
-Production
+Production:
 Max Baumeister, Marlene Meyer
 
-D.o.P.
+D.o.P.:
 Arkadiy Kreslov
 
-Editing
+Editing:
 Martin Mikosch
 
-Motion Graphics
+Motion Graphics:
 Timm Völkner
 
-Sound Design and Mix
+Sound Design and Mix:
 William Amsler
 
-Score
+Score:
 Johannes Schmitt
 
 
