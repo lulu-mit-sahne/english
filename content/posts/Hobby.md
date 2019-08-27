@@ -3,59 +3,58 @@ title: "Die wunderbare Welt der Hobbies"
 date: 2018-12-08
 showDate: true
 draft: false
-tags: ["Regisseur"]
+tags: ["director"]
 ---
 
-Für die SWR-Landesschau und den [SWR-Heimat Instagramkanal](https://www.instagram.com/swr_heimat_bw/?hl=de) sind mehrere Kurzportraits entstanden von Menschen mit außergewöhnlichen Hobbies. 
-
+For the SWR-Landesschau and the [SWR-Heimat Instagramkanal](https://www. instagram. com/swr_heimat_bw/?hl=de) several short portraits of people with extraordinary hobbies have been created. 
 
 {{< youtube AvoXEnUqMZo >}}
 
-### Die Meerjungfrau
+### The meermaid
 
-Regie: Julius Schmitt
+Director: Julius Schmitt
 
-Bildgestalerin: Feline Gerhardt
+D.o.P.: Feline Gerhardt
 
-Unterwasserkamera: Nicolai Deutsch
+Underwater camera: Nicolai Deutsch
 
 Sound: Leonard Claus
 
 Producer: Nick Pastuscha
 
-Produktoinsfirma: Eikon
+Production Company: Eikon
 
 {{< youtube GHi6rZiyw9c >}}
 
 
 
-### Der Eisenbahnführer
+### The train conductor
 
-Regie: Julius Schmitt
+Director: Julius Schmitt
 
-Bildgestalerin: Feline Gerhardt
+D.o.P.: Feline Gerhardt
 
 Sound: Cécilia Marchat
 
 Producer: Nick Pastuscha
 
-Produktoinsfirma: Eikon
+Production Company: Eikon
 
 
 {{< youtube C58uY1lyEOg >}}
 
 
 
-### Die paranormalen Ermittler
+### The paranormal investigators
 
-Regie: Julius Schmitt
+Director: Julius Schmitt
 
-Bildgestalerin: Feline Gerhardt
+D.o.P.: Feline Gerhardt
 
 Sound: Leonard Claus
 
 Producer: Nick Pastuscha
 
-Produktoinsfirma: Eikon
+Production Company: Eikon
 
 
