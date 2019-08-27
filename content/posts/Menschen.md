@@ -3,7 +3,7 @@ title: "Menschen die nach oben starren"
 date: 2016-02-09
 showDate: true
 draft: false
-tags: ["Regisseur","Text","Producer"]
+tags: ["director","text","producer"]
 
 images:
     - /posts/menschen/aliens.jpg
@@ -19,43 +19,43 @@ images:
 
 ![Menschen die nach oben starren, Julius Schmitt](/posts/menschen/reihe.jpg)
 
-### Eine Multimediareportage von Julius Schmitt
+### A Multimedia reportage by Julius Schmitt
 
-[Webseite] (http://mdnos.de/)
+[Website] (http://mdnos.de/)
 
 
-„Willkommen! Danke!“ Und dann wird über Fußball, Wetter und den Chef geredet. Oder wie stellt sich der Mensch den Erstkontakt zu Außerirdischen vor? September, 1995, Bulgarien, Russe, die Menschen starrten gen Himmel und warteten.
+"Welcome! Thank you!" -Talks about soccer, weather forecast and the boss again. Or how do humans imagine the first contact to extraterrestrials? September 1995, Bulgaria, Ruse. Men stared into the sky and waited.
 
-Buch und Regie:
+Web
+
+Script and Directing
 Julius Schmitt
 
-Produktion:
+Production
 Julius Schmitt
 
-Kamera:
+D.o.P.
 Chris Roemer
 
-Montage und VFX:
+Editing and VFX
 Julius Schmitt, Chris Roemer
 
-Code:
+Code
 Julius Schmitt, Tobias Wolf, Gianluca Pandolfo
 
-Sound Design und Mix:
+Sound Design and Mix
 Julius Schmitt
 
 ![Menschen die nach oben starren, Julius Schmitt](/posts/menschen/check_in.jpg)
-Der schwarze BMW bahnte sich seinen Weg durch die Menge. Er nahm zuerst die 202, bog an dem Fliegermonument ab und steuerte auf das kleine Flughafengebäude. Im Auto: Radka, Zdravka und Ekatherina - die drei Hellseherinnen. Spannung lag in der Luft. Menschen strömten zum Flughafen - zu Fuß, per Auto, auf Eselskarren, Shtraklevo war bereit die Außerirdischen zu begrüßen. 
+The black BMW made its way through the crowd. He first took the 202, turned off at the monument and headed for the small airport building. In the car: Radka, Zdravka and Ekatherina - the three clairvoyants. There was tension in the air. People flocked to the airport - on foot, by car, on donkey carts, Shtraklevo was ready to welcome the aliens. 
 ![Menschen die nach oben starren, Julius Schmitt](/posts/menschen/danke.jpg)
-Nikolai ist Filmemacher, Journalist und Exmann von Zdravka - eine der drei Hellseherinnen. Ihre gemeinsamen Söhne standen auf dem Flugfeld, sie hatten Blumen mitgebracht. "Wieso?"
-„Weil Mutti gesagt hat, dass wir jetzt die Außerirdischen empfangen werden“.
+Nikolai is a filmmaker, journalist and ex-husband of Zdravka - one of the three clairvoyants. Their sons were standing on the airfield together, they had brought flowers with them. "Why?";
+"Because Mom said we're going to welcome aliens now."
 ![Menschen die nach oben starren, Julius Schmitt](/posts/menschen/flughafen.jpg)
-Die Presse wartete vor Ort, lokal, national, Print, Radio, Fernsehen. Alle waren da um die Ereignisse zu verbreiten und für die Nachwelt zu sichern. Keiner konnte damit rechnen, dass so viele Menschen zum Flughafen
-pilgern würden. Die Menschen pressten sich gegen die Drahtzäune, starrten gen Himmel und warteten. Noch war es nicht so weit, noch sollte es mehr als eine Stunde dauern. Um 11 Uhr sollten acht Raumschiffe auf dem Flughafen landen und Bulgariens Kinder retten. Shtraklevo wartete gebannt auf ihre Ankunft.
+The press waited - locally, nationally, print, radio, television. Everyone was there to spread the word and secure it for posterity. No one could have expected so many people to go to the airport.
+The people pressed themselves against the wire fences, stared at the sky and waited. It was not yet so far, nor should it last more than an hour. At 11 o'clock eight spaceships were supposed to land at the airport and save Bulgaria's children. Shtraklevo waited spellbound for her arrival. 
 ![Menschen die nach oben starren, Julius Schmitt](/posts/menschen/ivan.jpg)
-Ivan ist der Gründer des ersten Ufo-Clubs Bulgariens, betreibt einen kleinen Internet-Blog (http://bufonet.org/). „die Wahrheit, die Wahrheit, die ganze Wahrheit über Ufos und andere Geheimnisse,“ prangt auf kyrillisch auf seiner Webseite.
+Ivan is the founder of the first Ufo club in Bulgaria, runs a small internet blog (http://bufonet. org/;)."The truth, the truth, the whole truth about ufos and other secrets," is written in Cyrillic on his website.
 ![Menschen die nach oben starren, Julius Schmitt](/posts/menschen/zimmer.jpg)
-Die Decke tief, die Neonröhren erzeugen ihr charakteristisches Arbeitslicht. Desktophintergrund: Ein Hakenkreuz.
-An der Wand: das letzte Abendmahl. Jesus hängt neben den Beatles, Led Zeppelin, Stalin, Hitler.
-
-
+The ceiling is deep, the neon tubes produce their characteristic working light. Desktop background: A swastika.
+On the wall: the Last Supper. Jesus hangs next to the Beatles, Led Zeppelin, Stalin, Hitler. 
