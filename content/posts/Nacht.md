@@ -2,7 +2,7 @@
 title: "So hell die Nacht"
 date: 2019-01-15
 showDate: true
-tags: ["Regisseur"]
+tags: ["director"]
 images:
     - /posts/nacht/Poster_Nacht.jpg
     - /posts/nacht/So_Hell_Die_Nacht_Still_01.jpg
@@ -13,33 +13,33 @@ images:
 ![Nacht](/posts/nacht/Poster_Nacht.jpg)
 
 
-### Ein Dokumentarfilm von Julius Schmitt
+### A Documentary by Julius Schmitt
 
-Die letzten Sonnenstrahlen verschwinden hinter den Hügeln. Die Dunkelheit zieht über die Stadt, die Kälte kriecht in die Knochen, Straßenlaternen ersetzen den Tag. Eine Ratte flieht vor einem Nachtschwärmer. Die späteren Stunden lassen immer mehr die Lichter verschwinden, die Ruhe wartet wieder auf den Trubel, sie wartet auf den Tag. Doch wenn die meisten Menschen die Augen schließen, klingelt bei einigen der Wecker. Nachtarbeiter – von Sonnenuntergang bis Sonnenaufgang.
-"So hell die Nacht" ist sowohl eine Kurzdokumentation, als auch ein 5-minütiges Klavierstück.
+Last sunrays disappear behind the hills. Darkness covers the city, coldness creeps into the bones, street lights replace the day. A rat flees from a night owl. The later hours let more and more lights disappear, tranquility is awaiting hustle and bustle, is waiting for the day. But when most people close their eyes, the alarm clocks of others ring. Night workers - from dusk till dawn. So hell die Nacht is both a short documentation, as well as a 5-minutes piano piece.
 
-13 min/ 5 min / 2K / 21:9 / Farbe
+13 min / 5 min / 2K / 21:9 / Colour
 
-Buch und Regie:
+Script and Directing
 Julius Schmitt
 
-Produktion:
+Production
 Max Baumeister, Marlene Meyer
 
-Kamera:
+D.o.P.
 Arkadiy Kreslov
 
-Montage:
+Editing
 Martin Mikosch
 
-Motion Graphics:
+Motion Graphics
 Timm Völkner
 
-Sound Design und Mix:
+Sound Design and Mix
 William Amsler
 
-Filmmusik:
+Score
 Johannes Schmitt
+
 
 
 ![Nacht](/posts/nacht/So_Hell_Die_Nacht_Still_01.jpg)
