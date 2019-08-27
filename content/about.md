@@ -14,7 +14,7 @@ Diploma in directing/tv journalism at the Filmakademie Baden-Württemberg.
 Worked for Deutsche Welle, Goethe Zentrum and SWR     
 - in Germany, Romania, Madagascar, Kenya and Burkina Faso.  
 
-I am co-founder of the collective [Carlo] (https://wirsindcarlo.de)      
+I am co-founder of the collective [Carlo] (https://wearecarlo.com)      
 and here's a [selection of my movies.] (/posts)     
 
 [Write me] (mailto:julius@wirsindcarlo.de) 
