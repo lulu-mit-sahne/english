@@ -1,24 +1,25 @@
 ---
-title: "Über mich"
+title: "About   me"
 date: 2018
 images:
     - /posts/julius4.jpg
 ---
 ![Julius](/julius4.jpg)
 
-Geboren in Karlsruhe. BaBachelor an der Bauhaus Universität Weimar      
-in Medienkunst/Mediengestaltung mit Auslandssemester    
-„prise de vue“ (Bildgestaltung) an der SATIS/Aubagne.                                                  
+Born in Karlsruhe. Bachelor at the Bauhaus University Weimar      
+in media art/media design with semester abroad    
+"prise de vue" at  SATIS/Aubagne.                                                  
 
-Diplom in Regie/Fernsehjournalismus an der Filmakademie Baden-Württemberg.      
-Gearbeitet für die Deutsche Welle, beim Goethe Zentrum und für den SWR     
-– in Deutschland, Rumänien, Madagaskar, Kenia und Burkina Faso.  
+Diploma in directing/tv journalism at the Filmakademie Baden-Württemberg.      
+Worked for Deutsche Welle, Goethe Zentrum and SWR.     
+- in Germany, Romania, Madagascar, Kenya and Burkina Faso.  
 
-Ich bin Mitbegründer des Kollektives [Carlo] (https://wirsindcarlo.de)      
-und hier eine [Auswahl meiner Filme.] (/posts)     
+I am co-founder of the collective [Carlo] (https://wirsindcarlo.de)      
+and here's a [selection of my movies.] (/posts)     
 
-[Schreibt mir,] (mailto:julius@wirsindcarlo.de) 
-ich freue mich.
+[Write me] (mailto:julius@wirsindcarlo.de) 
+
+I'd be glad to.
 
 
 
