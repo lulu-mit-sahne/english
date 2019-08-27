@@ -1,5 +1,5 @@
 ---
-title: "Meine Reise mit dem Wanderkino"
+title: "Moving theater"
 date: 2018-06-15
 showDate: true
 draft: false
