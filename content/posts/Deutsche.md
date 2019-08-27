@@ -7,26 +7,28 @@ tags: ["Regisseur"]
 ---
 {{< youtube JozLUGIfe-Y >}}
 
-### 3x2 eine Magazinserie
+### 3x2 a magazine series
 
-Die Magazinserie 3X2 porträtiert sechs Menschen in verschiedenen Lebenslagen. In der Folge "Die Deutschen und die Angst" besuchen wir zwei junge Menschen mitten in der Ausbildung, zwei in der Mitte ihres Lebens und zwei deren Leben sich dem Ende zuneigt. Eins jedoch eint sie, alle haben Angst. Doch unterscheiden sich diese bei Menschen mit unterschiedlicher sozialer oder kultureller Herkunft? Gibt es Gemeinsamkeiten, obwohl die Protagonisten von Grund auf verschieden sind? Und kann man so auf eine universelle Angst der Deutschen schließen? Diese Fragen stellen wir in dieser Folge von 3X2. 
 
-Regie: Fabian Janssen, Josefin Kuschela, Marina Schulz, Julius Schmitt, Leonard Claus, Katharina Kraft
+The magazine series 3X2 portrays six people in different situations. In the episode "The Germans and the Fear"; we visit two young people in the middle of their formation, two in the middle of their lives and two whose lives are coming to an end. But one thing unites them all, they're all afraid. But are these different for people with different social or cultural backgrounds? Are there similarities, although the protagonists are fundamentally different? And can one thus infer a universal fear of the Germans? We ask these questions in this episode of 3X2. 
 
-Bildgestaltung/Kamera: Josefin Kuschela, Matti Megerle, Moritz Kessler, Arian Wichmann, David Büttner
 
-Filmmusik: Moritz Laux, Andreas Skandy 
+Director: Fabian Janssen, Josefin Kuschela, Marina Schulz, Julius Schmitt, Leonard Claus, Katharina Kraft
+
+D.o.P.: Josefin Kuschela, Matti Megerle, Moritz Kessler, Arian Wichmann, David Büttner
+
+Film music: Moritz Laux, Andreas Skandy 
 
 Sounddesign: Johannes Schelle, William Amsler 
 
-Ton: Chiara Haurand, Benjamin Hettwer 
+Sound: Chiara Haurand, Benjamin Hettwer 
 
-Schnitt: Moritz Enzo Hoch 
+Editing: Moritz Enzo Hoch 
 
 Motion Design: Timm Völkner 
 
 Producer: Maximilian Höhnle 
 
-Sprecher: Magda Decker 
+Speaker: Magda Decker 
 
-Produktion: Filmakademie Baden-Württemberg GmbH
+Production Company: Filmakademie Baden-Württemberg GmbH
