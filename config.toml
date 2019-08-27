@@ -39,7 +39,7 @@ pygmentsCodefences       = true
     link = "/posts"
     text = "Filmemacher"
 
-[[params.mainMenuTab]]
+[[params.mainMenu]]
     link = "https://wirsindcarlo.de"
     text = "und 33,3% von Carlo"
 
