@@ -19,21 +19,21 @@ images:
 
 ![Julius](/posts/brasilien/brazil_05.jpg)
 
-### Ein Reportage von Leonard Claus
+### A reportage by Leonard Claus
 
-Nicolas Jentzsch ist Lehrer in Hamburg. Doch nicht mehr lange, denn bald wandert er nach São Paulo aus, um an einer Deutschen Auslandsschule zu unterrichten. 
-Weltweit gibt es davon 140 Schulen in 76 Ländern, wobei das brasilianische Colégio Visconde de Porto Seguro  die mit Abstand größte Schule ist - knapp 10.000 Kinder lernen hier die deutsche Sprache und werden auf das Abitur vorbereitet.
-Wir folgen Nicolas Jentzsch auf seinem Abenteuer nach Brasilien und möchten zudem mit seinen Schülern und deren Familien sprechen. Was bewegt sie, ihre Kinder auf deutsche Schulen zu schicken?
+Nicolas Jentzsch is a teacher in Hamburg. But not for long, because he soon emigrates to São Paulo to teach at a German school abroad.
+Worldwide there are 140 schools in 76 countries, whereby the Brazilian Colégio Visconde de Porto Seguro is by far the largest school - almost 10,000 children learn the German language here and are prepared for the Abitur.
+We follow Nicolas Jentzsch on his adventure to Brazil and also talk to his students and their families. What motivates them to send their children to German schools? 
 
-30 min / FullHD / 16:9 / Farbe
+30 min / FullHD / 16:9 / color
 
-Regie:
+director:
 Leonard Claus
 
-Produktion:
+producer:
 Leonard Claus
 
-Kamera:
+DoP:
 Julius Schmitt
 
 Sound:
