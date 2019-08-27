@@ -29,10 +29,10 @@ D.o.P.:
 Arkadiy Kreslov
 
 Editing:
-Martin Mikosch
+<a href="https://www.martinmikosch.de/" target="_blank">Martin Mikosch</a>
 
 Motion Graphics:
-Timm Völkner
+<a href="https://timmvoelkner.com/" target="_blank">Timm Völkner</a>
 
 Sound Design and Mix:
 William Amsler
