@@ -3,49 +3,49 @@ title: "Maimouna und Hélène"
 date: 2018-04-13
 showDate: true
 draft: false
-tags: ["Regisseur","DoP", "Producer"]
+tags: ["director","DoP", "producer"]
 ---
 
 {{< vimeo 277099622 >}}
 
 
-### Ein Dokumentarfilm von Julius Schmitt
+### A documentary by Julius Schmitt
 
-„Seit dem Alphabetisierungskurs kann ich meinen eigenen Namen schreiben“, Maimouna Zaongo lebt in dem kleinen Dorf Bam-Village in Burkina Faso. 
-Der Film zeigt den Alltag von Maimouna im westafrkanischen Bam-Village. „Maimouna“ ist eine Auftragsarbeit der Stadt Ludwigsburg, die sich gemeinsam mit Montbéliard in Burkina Faso engagiert. 
-Der Film zeigt wie viel Auswirkung die verschiedenen Aktivitäten der Ludwigsburgerinnen und Ludwigsburger in und um Kongoussi haben. 
+"Since the literacy course I can write my own name";, Maimouna Zaongo lives in the small village Bam-Village in Burkina Faso.
+The film shows the everyday life of Maimouna in Bam Village in western Africa. "Maimouna" is a commissioned work of the city of Ludwigsburg, which is involved in Burkina Faso together with Montbéliard.
+The film shows how much impact the various activities of Ludwigsburgs in and around Kongoussi have. 
 
-4 min / HD / 16:9 / Farbe    
+4 min / HD / 16:9 / color    
 
-Buch: Julius Schmitt, Rebecca Barthel    
+Script: Julius Schmitt, Rebecca Barthel    
 
-Regie, Produktion, Kamera, Montage: Julius Schmitt    
+Dircetor, producer, D.o.P., editing: Julius Schmitt    
 
 Assistent: Césaire Ismael Nebyinga Kafando   
 
 Sound: Constant Habib Soubeaga   
 
-Filmmusik: Noufou Kabore   
+Film music: Noufou Kabore   
 
 
 {{< vimeo 303255908 >}}
 
-### Ein Dokumentarfilm von Rebecca Barthel und Julius Schmitt
+### A documentary by Rebecca Barthel and Julius Schmitt
 
-„Ich werde nicht entlohnt für die Arbeit, der Chef zahlt uns nichts“. Hélène Ouédraogo ist 24 Jahre alt und macht eine Ausbildung zur Schneiderin in westafrikanischen Kongoussi. 
-„Hélène“ ist eine Auftragsarbeit der Stadt Ludwigsburg, die sich gemeinsam mit Montbéliard in Burkina Faso engagiert. 
-Der Film zeigt neben dem Alltag von Hélène wie viel Auswirkung die verschiedenen Aktivitäten der Ludwigsburgerinnen und Ludwigsburger in und für Kongoussi haben. 
+"I don't get paid for my work, the boss doesn't pay us";. Hélène Ouédraogo is 24 years old and is studying to become a tailor in West African Congoussi.
+"Hélène" is a commissioned work by the city of Ludwigsburg, which is involved in Burkina Faso together with Montbéliard.
+In addition to Hélène's everyday life, the film shows how much impact the various activities of the Ludwigsburgs in and for Congoussi have.
 
-5 min / HD / 16:9 / Farbe
+5 min / HD / 16:9 / Colour
 
-Buch:  Rebecca Barthel, Julius Schmitt
+Script: Rebecca Barthel, Julius Schmitt
 
-Regie, Kamera: Julius Schmitt
+Director, D.o.P.: Julius Schmitt
 
-Produktion, Montage: Rebecca Barthel
+Production, editing: Rebecca Barthel
 
-Assistent: Césaire Ismael Nebyinga Kafando
+Assistant: Césaire Ismael Nebyinga Kafando
 
 Sound: Constant Habib Soubeaga
 
-Filmmusik: Max Clouth
+Film music: Max Clouth 
