@@ -15,28 +15,28 @@ images:
 
 ![Julius](/posts/schwimmen/die_kunst_des_schwimmens_still_01.jpg)
 
-### Ein Kurzfilm von Julius Schmitt und Chris Roemer
+### A Short Film by Julius Schmitt and Chris Roemer
 
-Die Schule soll für das Leben vorbereiten. Kurvendiskussion, Integralrechnung, Summenformeln. Doch sind mathematische Formeln wirklich lebenswichtig? Kann der Mensch seinen Körper durch reine Mathematik verbessern? Ihn zur Höchstleistung zwingen? Er kann! Denn Algebra optimiert Leben.
+School is due to prepare us for life. Curve sketching, integral calculus, chemical formula. But are mathematical formulas really essential to life? Can man improve his body through pure mathematics? Force it to the maximum performance? He can. For algebra optimizes life.
 
-3 min / FullHD / 16:9 / SW
+3 min / FullHD / 16:9 / bw
 
-Buch:
+Script
 Julius Schmitt, Chris Roemer
 
-Regie:
+Directing
 Julius Schmitt
 
-Produktion:
+Production
 Julius Schmitt, Chris Roemer
 
-Kamera:
+D.o.P.
 Chris Roemer
 
-Montage und VFX:
+Editing and VFX
 Chris Roemer, Julius Schmitt
 
-Sound Design und Mix:
+Sound Design and Mix
 Benjamin Voßler
 
 ![Julius](/posts/schwimmen/die_kunst_des_schwimmens_still_02.jpg)
