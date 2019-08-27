@@ -3,7 +3,7 @@ title: "Meine Reise mit dem Wanderkino"
 date: 2018-06-15
 showDate: true
 draft: false
-tags: ["Regisseur", "DoP", "Producer"]
+tags: ["director", "DoP", "producer"]
 
 images:
     - /posts/wanderkino/unterwegs-mit-dem-wanderkino-1.jpg
@@ -14,26 +14,25 @@ images:
 
 {{< vimeo 302657667 >}}
 
-### Ein Dokumentarfilm von Julius Schmitt
+### A Documentary by Julius Schmitt
 
-Die Leinwand aufgebaut. Der Projektor gestartet. Die Menschen strömen zum Feld. 20 Uhr: Die Vorstellung kann beginnen. Das Wanderkino ist zu Gast im Süden von Burkina Faso.
-Faszination Bewegtbild - bei uns in Deutschland ist das Wanderkino längst Nostalgie. Die Menschen sind mobil, haben den Luxus von Zeit und Geld, um sich unterhalten zu lassen. In Burkina Faso ist das noch anders.
-Unterwegs mit dem Wanderkino ist eine persönliche Reisereportage mit einem Ich-Erzähler. Es gibt drei unterschiedliche Versionen des Filmes mit drei verschiedenen Sprechern in drei unterschiedlichen Sprachfassungen. Deutsch (Julius), Französisch (Georges), Mòoré (Nadége).
+Screen installed. Projector started. People are swarming to the field. 8 p.m.: The screening can begin. The travelling cinema is visiting the south of Burkina Faso.
+The fascination of the moving image - in Germany, the travelling cinema has long been degenerate into a nostalgia. People are mobile, have the luxury of time and money to be entertained. This is still different in Burkina Faso.
+Unterwegs mit dem Wanderkino is a personal road movie with a first-person narrator. Three protagonists, three versions with three different speakers in three different languages: German (Julius), French (Georges), Mooré (Nadége).
 
-19 min / FullHD / 16:9 / Farbe
+19 min / FullHD / 16:9 / Colour
 
-Buch, Regie, Produktion und Kamera:
+Script, Directing, Production and D.o.P.
 Julius Schmitt
 
-Montage:
+Editing
 Martin Mikosch
 
-Sound Design und Mix:
+Sound Design and Mix
 William Amsler
 
-Untertitel:
+Subtitles
 Naré Nadège Delwendé, Georges le Roi Tekou
-
 
 ![Meine Reise mit dem Wanderkino, Julius Schmitt](/posts/wanderkino/unterwegs-mit-dem-wanderkino-1.jpg)
 ![Meine Reise mit dem Wanderkino, Julius Schmitt](/posts/wanderkino/unterwegs-mit-dem-wanderkino-3.jpg)
