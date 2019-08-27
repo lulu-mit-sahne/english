@@ -21,7 +21,7 @@ images:
 
 ### A Multimedia reportage by Julius Schmitt
 
-[Website] (http://mdnos.de/)
+<a href="http://mdnos.de" target="_blank">Webseite</a>
 
 
 "Welcome! Thank you!" -Talks about soccer, weather forecast and the boss again. Or how do humans imagine the first contact to extraterrestrials? September 1995, Bulgaria, Ruse. Men stared into the sky and waited.
@@ -35,10 +35,10 @@ Production
 Julius Schmitt
 
 D.o.P.
-Chris Roemer
+<a href="https://chrisroemer.de/" target="_blank">Chris Römer</a>
 
 Editing and VFX
-Julius Schmitt, Chris Roemer
+Julius Schmitt, <a href="https://chrisroemer.de/" target="_blank">Chris Römer</a>
 
 Code
 Julius Schmitt, Tobias Wolf, Gianluca Pandolfo
