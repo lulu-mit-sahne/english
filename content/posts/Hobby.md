@@ -6,7 +6,7 @@ draft: false
 tags: ["director"]
 ---
 
-For the SWR-Landesschau and the [SWR-Heimat Instagramkanal](https://www. instagram. com/swr_heimat_bw/?hl=de) several short portraits of people with extraordinary hobbies have been created. 
+For the SWR-Landesschau and the <a href="https://www.instagram.com/swr_heimat_bw/?hl=de" target="_blank">SWR-Heimat Instagramkanal</a>  several short portraits of people with extraordinary hobbies have been created. 
 
 {{< youtube AvoXEnUqMZo >}}
 
@@ -14,7 +14,7 @@ For the SWR-Landesschau and the [SWR-Heimat Instagramkanal](https://www. instagr
 
 Director: Julius Schmitt
 
-D.o.P.: Feline Gerhardt
+D.o.P.: <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
 
 Underwater camera: Nicolai Deutsch
 
@@ -22,7 +22,7 @@ Sound: Leonard Claus
 
 Producer: Nick Pastuscha
 
-Production Company: Eikon
+Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 {{< youtube GHi6rZiyw9c >}}
 
@@ -32,13 +32,13 @@ Production Company: Eikon
 
 Director: Julius Schmitt
 
-D.o.P.: Feline Gerhardt
+D.o.P.: <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
 
 Sound: Cécilia Marchat
 
 Producer: Nick Pastuscha
 
-Production Company: Eikon
+Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 
 {{< youtube C58uY1lyEOg >}}
@@ -49,12 +49,12 @@ Production Company: Eikon
 
 Director: Julius Schmitt
 
-D.o.P.: Feline Gerhardt
+D.o.P.: <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
 
 Sound: Leonard Claus
 
 Producer: Nick Pastuscha
 
-Production Company: Eikon
+Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 
