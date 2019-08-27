@@ -22,16 +22,16 @@ Unterwegs mit dem Wanderkino is a personal road movie with a first-person narrat
 
 19 min / FullHD / 16:9 / Colour
 
-Script, Directing, Production and D.o.P.
+Script, Directing, Production and D.o.P.:
 Julius Schmitt
 
-Editing
+Editing:
 Martin Mikosch
 
-Sound Design and Mix
+Sound Design and Mix:
 William Amsler
 
-Subtitles
+Subtitles:
 Naré Nadège Delwendé, Georges le Roi Tekou
 
 ![Meine Reise mit dem Wanderkino, Julius Schmitt](/posts/wanderkino/unterwegs-mit-dem-wanderkino-1.jpg)
