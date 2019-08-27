@@ -28,7 +28,7 @@ pygmentsCodefences       = true
 
 [[params.mainMenu]]
     link = "/about"
-    text = "I'am Julius"
+    text = "I'm Julius"
 
 [[params.mainMenu]]
     link = "/posts"
