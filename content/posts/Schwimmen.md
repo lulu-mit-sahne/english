@@ -21,22 +21,22 @@ School is due to prepare us for life. Curve sketching, integral calculus, chemic
 
 3 min / FullHD / 16:9 / bw
 
-Script
+Script:
 Julius Schmitt, Chris Roemer
 
-Directing
+Directing:
 Julius Schmitt
 
-Production
+Production:
 Julius Schmitt, Chris Roemer
 
-D.o.P.
+D.o.P.:
 Chris Roemer
 
-Editing and VFX
+Editing and VFX:
 Chris Roemer, Julius Schmitt
 
-Sound Design and Mix
+Sound Design and Mix:
 Benjamin Voßler
 
 ![Julius](/posts/schwimmen/die_kunst_des_schwimmens_still_02.jpg)
