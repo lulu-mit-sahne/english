@@ -21,7 +21,7 @@ images:
 
 ### A Multimedia reportage by Julius Schmitt
 
-<a href="http://mdnos.de" target="_blank">Webseite</a>
+<a href="http://mdnos.de" target="_blank">Website</a>
 
 
 "Welcome! Thank you!" -Talks about soccer, weather forecast and the boss again. Or how do humans imagine the first contact to extraterrestrials? September 1995, Bulgaria, Ruse. Men stared into the sky and waited.
