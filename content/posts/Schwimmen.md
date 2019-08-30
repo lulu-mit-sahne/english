@@ -3,7 +3,7 @@ title: "The art of swimming"
 date: 2017-02-01
 showDate: true
 draft: false
-tags: ["Regisseur","Producer"]
+tags: ["director","producer"]
 
 images:
     - /posts/schwimmen/die_kunst_des_schwimmens_still_01.jpg
