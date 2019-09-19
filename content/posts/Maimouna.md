@@ -11,9 +11,9 @@ tags: ["director","DoP", "producer"]
 
 ### A documentary by Julius Schmitt
 
-"Since the literacy course I can write my own name", Maimouna Zaongo lives in the small village Bam-Village in Burkina Faso.
-The film shows the everyday life of Maimouna in Bam Village in western Africa. "Maimouna" is a commissioned work of the city of Ludwigsburg, which is involved in Burkina Faso together with Montbéliard.
-The film shows how much impact the various activities of Ludwigsburgs in and around Kongoussi have. 
+"Since the literacy course I can write my own name", Maimouna Zaongo lives in the small Bam-Village in Burkina Faso in western Africa.
+The film shows the everyday life. "Maimouna" is a commissioned work for the citiy of Ludwigsburg, which is involved in Burkina Faso.
+The film shows how much impact their various activities have in and around Kongoussi. 
 
 4 min / HD / 16:9 / color    
 
@@ -32,9 +32,9 @@ Film music: Noufou Kabore
 
 ### A documentary by Rebecca Barthel and Julius Schmitt
 
-"I don't get paid for my work, the boss doesn't pay us"; Hélène Ouédraogo is 24 years old and is studying to become a tailor in West African Congoussi.
-"Hélène" is a commissioned work by the city of Ludwigsburg, which is involved in Burkina Faso together with Montbéliard.
-In addition to Hélène's everyday life, the film shows how much impact the various activities of the Ludwigsburgs in and for Congoussi have.
+"I don't get paid for my work, the boss doesn't pay us"; Hélène Ouédraogo is 24 years old and is studying to become a tailor in West African Kongoussi.
+"Hélène" is a commissioned work by the city of Ludwigsburg. 
+In addition to Hélène's everyday life, the film shows how important the various activities of Ludwigsburg are in and around Kongoussi.
 
 5 min / HD / 16:9 / Colour
 
