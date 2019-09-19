@@ -17,9 +17,7 @@ Worked for Deutsche Welle, Goethe Zentrum and SWR
 I am co-founder of the collective <a href="https://wearecarlo.com" target="_blank">Carlo</a>   
 and here's a [selection of my movies.] (/posts)     
 
-[Write me] (mailto:julius@wirsindcarlo.de) 
-
-I'd be glad to.
+I'd be glad to [get in touch with you.] (mailto:julius@wirsindcarlo.de) 
 
 
 
