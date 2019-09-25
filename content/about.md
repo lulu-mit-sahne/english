@@ -15,7 +15,8 @@ Worked for Deutsche Welle, Goethe Zentrum and SWR
 - in Germany, Romania, Madagascar, Kenya and Burkina Faso.  
 
 I am co-founder of the collective <a href="https://wearecarlo.com" target="_blank">Carlo</a>   
-and here's a [selection of my movies.] (/posts)     
+,here's a [selection of my movies.] (/posts)
+and this is [my CV.] (/cv.pdf)
 
 I'd be glad to [get in touch with you.] (mailto:julius@wirsindcarlo.de) 
 
