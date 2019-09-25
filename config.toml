@@ -23,7 +23,7 @@ pygmentsCodefences       = true
     title                = "Julius Schmitt"
 
 [[params.mainMenu]]
-    link = "/about"
+    link = "/showreel"
     text = "Hey"
 
 [[params.mainMenu]]
