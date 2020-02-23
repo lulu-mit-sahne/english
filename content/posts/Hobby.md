@@ -6,9 +6,23 @@ draft: false
 tags: ["director"]
 ---
 
-For the SWR-Landesschau and the <a href="https://www.instagram.com/swr_heimat_bw/?hl=de" target="_blank">SWR-Heimat Instagramkanal</a>  several short portraits of people with extraordinary hobbies have been created. 
+For the SWR-Landesschau and the <a href="https://www.instagram.com/swr_heimat_bw/?hl=de" target="_blank">SWR-Heimat Instagramkanal</a>  several short portraits of people with extraordinary hobbies have been created and a 30-minute reportage for ARD.
 
-{{< youtube AvoXEnUqMZo >}}
+
+<iframe src="https://www.ardmediathek.de/embed/Y3JpZDovL3N3ci5kZS9hZXgvbzExODczMzQ" width="840" height="420" allowfullscreen frameBorder="0" scrolling="no"></iframe>
+
+### Die wunderbare Welt der Hobbys
+
+Director: Julius Schmitt, <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>, <a href="https://www.leonardclaus.de" target="_blank">Leonard Claus</a>, Marina Schultz
+
+D.o.P.:  <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
+
+Producer: Nick Pastuscha
+
+Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
+
+
+<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/Mit-Monoflosse-im-Wasser-Franzi-ist-Hobby-Meerjungfrau,av-o1106495-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### The meermaid
 
@@ -24,7 +38,8 @@ Producer: Nick Pastuscha
 
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
-{{< youtube GHi6rZiyw9c >}}
+
+<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/Mein-Hobby-Lokfuehrer-vom-Karlsruher-Greif,av-o1112135-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
@@ -41,7 +56,7 @@ Producer: Nick Pastuscha
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 
-{{< youtube C58uY1lyEOg >}}
+<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/Ungewoehnliches-Hobby-Der-Geistersucher-aus-Heidelberg,av-o1108429-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
@@ -56,5 +71,21 @@ Sound: Leonard Claus
 Producer: Nick Pastuscha
 
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
+
+<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/Mein-Hobby-Nervenkitzel-Skispringen,av-o1117282-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+
+
+### The Skijumper
+
+Director: Julius Schmitt
+
+D.o.P.:  <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
+
+Sound: Leonard Claus
+
+Producer: Nick Pastuscha
+
+Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
+
 
 
