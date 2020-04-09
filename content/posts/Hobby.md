@@ -22,7 +22,7 @@ Producer: Nick Pastucha
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 
-<iframe src="https://www.youtube.com/watch?v=AvoXEnUqMZo" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe width="840" height="420" src="https://www.youtube.com/embed/AvoXEnUqMZo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### The meermaid
 
@@ -56,7 +56,7 @@ Producer: Nick Pastucha
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 
-<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/Ungewoehnliches-Hobby-Der-Geistersucher-aus-Heidelberg,av-o1108429-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.swr.de/heimat/heidelberg/av-o1167903-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 
@@ -72,7 +72,7 @@ Producer: Nick Pastucha
 
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
-<iframe src="https://www.swr.de/heimat/heidelberg/av-o1167903-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/av-o1117282-100.html" width="840" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 ### The Skijumper
