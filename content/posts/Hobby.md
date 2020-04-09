@@ -72,7 +72,7 @@ Producer: Nick Pastucha
 
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
-<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/av-o1117282-100.html" width="840" height="420" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/av-o1117282-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 ### The Skijumper
