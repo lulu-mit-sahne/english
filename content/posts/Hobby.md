@@ -17,12 +17,12 @@ Director: Julius Schmitt, <a href="https://felinegerhardt.com/" target="_blank">
 
 D.o.P.:  <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a>
 
-Producer: Nick Pastuscha
+Producer: Nick Pastucha
 
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 
-<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/Mit-Monoflosse-im-Wasser-Franzi-ist-Hobby-Meerjungfrau,av-o1106495-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/watch?v=AvoXEnUqMZo" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 ### The meermaid
 
@@ -34,7 +34,7 @@ Underwater camera: Nicolai Deutsch
 
 Sound: Leonard Claus
 
-Producer: Nick Pastuscha
+Producer: Nick Pastucha
 
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
@@ -51,7 +51,7 @@ D.o.P.: <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a
 
 Sound: Cécilia Marchat
 
-Producer: Nick Pastuscha
+Producer: Nick Pastucha
 
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
@@ -68,11 +68,11 @@ D.o.P.: <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</a
 
 Sound: Leonard Claus
 
-Producer: Nick Pastuscha
+Producer: Nick Pastucha
 
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
-<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/Mein-Hobby-Nervenkitzel-Skispringen,av-o1117282-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<iframe src="https://www.swr.de/heimat/heidelberg/av-o1167903-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 
 ### The Skijumper
@@ -83,7 +83,7 @@ D.o.P.:  <a href="https://felinegerhardt.com/" target="_blank">Feline Gerhardt</
 
 Sound: Leonard Claus
 
-Producer: Nick Pastuscha
+Producer: Nick Pastucha
 
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
