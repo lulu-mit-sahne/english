@@ -21,7 +21,7 @@ A natural disaster can come at any time. With this thought in mind, Gerd trains 
 
 23 min/ 2K / 1,85:1 / color
 
-Directing
+Directing:
 Julius Schmitt
 
 D.o.P.:
