@@ -4,6 +4,11 @@ date: 2018-12-08
 showDate: true
 draft: false
 tags: ["director"]
+
+images:
+    - /posts/hobby/geistersucher.jpg
+    - /posts/hobby/lokfuehrer.jpg
+    - /posts/hobby/skispringerin.jpg 
 ---
 
 For the SWR-Landesschau and the <a href="https://www.instagram.com/swr_heimat_bw/?hl=de" target="_blank">SWR-Heimat Instagramkanal</a>  several short portraits of people with extraordinary hobbies have been created and a 30-minute reportage for ARD.
@@ -39,8 +44,7 @@ Producer: Nick Pastucha
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 
-<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/Mein-Hobby-Lokfuehrer-vom-Karlsruher-Greif,av-o1112135-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
+![Julius](/posts/hobby/lokfuehrer.jpg)
 
 
 ### The train conductor
@@ -56,8 +60,7 @@ Producer: Nick Pastucha
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
 
-<iframe src="https://www.swr.de/~embed/heimat/heidelberg/av-o1167903-100.html" width="420" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe> 
-
+![Julius](/posts/hobby/geistersucher.jpg)
 
 
 ### The paranormal investigators
@@ -72,7 +75,7 @@ Producer: Nick Pastucha
 
 Production Company: <a href="https://www.eikon-suedwest.de/home.html" target="_blank">Eikon</a>
 
-<iframe src="https://www.swrfernsehen.de/~embed/landesschau-bw/av-o1117282-100.html" width="840" height="420" frameborder="0" scrolling="no" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+![Julius](/posts/hobby/skispringerin.jpg)
 
 
 ### The Skijumper
