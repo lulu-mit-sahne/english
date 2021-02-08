@@ -6,8 +6,8 @@ title: "Impressum"
 ### Verantwortlich für den Inhalt:
 
 Julius Schmitt   
-Hohenheimer Straße 55  
-70184 Stuttgart  
+Waldring 12
+76133 Karlsruhe
 
 julius@wirsindcarlo.de
 
@@ -35,6 +35,6 @@ Keine Abmahnung ohne Kontakt!
 
 Im Falle der Geltendmachung von Ansprüchen jeglicher Art aus urheberrechtlichen, wettbewerbsrechtlichen sowie markenrechtlichen und datenrechtlichen Angelegenheiten ist, zur Vermeidung unnötiger Rechtsstreitigkeiten, Abmahnungen und Kosten, der Verantwortliche umgehend zu kontaktieren. Falls Ansprüche der oben genannten Art reklamiert werden, sagt der Verantwortliche bereits hier vor einer endgültigen rechtsverbindlichen Klärung Abhilfe zu, durch die eine eventuelle Wiederholungsgefahr verbindlich ausgeschlossen ist. Eine dennoch ergehende Kostennote einer anwaltlichen Abmahnung ohne vorhergehende Kontaktaufnahme würde sodann wegen Nichtbeachtung der Schadensminderungspflicht zurückgewiesen. Änderungen meiner Datenschutzerklärung Um zu gewährleisten, dass meine Datenschutzerklärung stets den aktuellen gesetzlichen Vorgaben entspricht, behalte ich mir jederzeit Änderungen vor. Das gilt auch für den Fall, dass die Datenschutzerklärung aufgrund neuer oder überarbeiteter Leistungen angepasst werden muss. ​
 
-Stand: 01.08.2019 
+Stand: 01.02.2021 
 
 
