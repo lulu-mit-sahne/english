@@ -6,7 +6,7 @@ title: "Impressum"
 ### Verantwortlich für den Inhalt:
 
 Julius Schmitt   
-Waldring 12
+Waldring 12 
 76133 Karlsruhe
 
 julius@wirsindcarlo.de
